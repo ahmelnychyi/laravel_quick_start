@@ -5,7 +5,8 @@
 2. cd laravel_quick_start
 
 3. Open .docker-compose.yml  file and change user=sammy and uid=1004  
-   to the username under which you log in to the development server and his UID (run in the terminal  echo $UID)
+   to the username under which you log in to the development server 
+   and his UID (run in the terminal  echo $UID)
     args:
     - user=sammy 
     - uid=1004   
