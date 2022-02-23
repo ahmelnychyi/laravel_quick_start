@@ -1,6 +1,6 @@
 1. Clone the repo
 
-  git clone https://github.com/ahmelnychyi/laravel_quick_start
+      git clone https://github.com/ahmelnychyi/laravel_quick_start
 
 2. cd laravel_quick_start
 
